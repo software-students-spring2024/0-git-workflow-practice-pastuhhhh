@@ -5,3 +5,9 @@
 <br>
 <br>
 <div style="text-align:right">-Joseph Lee<div>
+
+
+# Comment by Stanley Moukhametzianov
+<br>
+
+Hey, I found it interesting that we both chose articles relating to AI and chat modals. Overall, I'm kinda rooting for llama 3 to be the best. While Meta dosen't have the best track record overall, I love how they made llama 2 and hopefully 3 open source. I think that doing so can allow a lot of hobby developers and start-ups to have a competative chance in the space dominated by tech giants. 
